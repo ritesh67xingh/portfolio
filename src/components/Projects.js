@@ -5,8 +5,7 @@ import TrackVisibility from 'react-on-screen'
 import portfolioImg from '../assets/img/portfolioImg.png'
 import weatherImg from '../assets/img/weatherImg.png'
 import typeImg from '../assets/img/typeImg.png'
-import budgetImg from '../assets/img/budgetImg.png'
-import lorettoConnect from '../assets/img/lorettoConnect.png'
+
 import colorSharp2 from '../assets/img/color-sharp2.png'
 
 export default function Projects() {
@@ -15,7 +14,7 @@ export default function Projects() {
       title: "Portfolio",
       description: "My Work: Store-House",
       imgUrl: portfolioImg,
-      //url:
+      url:"https://ritesh67xingh.github.io/portfolio/"
     },
     {
       title: "Weather",
